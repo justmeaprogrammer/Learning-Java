@@ -1,6 +1,6 @@
 package com.javaInLessTime;
 
-public class patterns {
+public class patternsTest {
     public static void main(String[] args) {
         // Pattern 1
 
