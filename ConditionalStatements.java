@@ -1,7 +1,7 @@
 package com.javaInLessTime;
 
 public class ConditionalStatements {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         int day = 1;
 
@@ -25,7 +25,7 @@ public class ConditionalStatements {
 //        }
 
 
-        switch(day){
+        switch (day) {
             case 1:
                 System.out.println("Its Monday");
                 break;
@@ -47,7 +47,7 @@ public class ConditionalStatements {
             case 7:
                 System.out.println("Its Sundayyyyyy");
                 break;
-            default:{
+            default: {
                 System.out.println("Not Your Day, hahahahaha");
             }
         }
